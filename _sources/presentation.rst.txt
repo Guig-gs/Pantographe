@@ -1,22 +1,13 @@
-Installation
+Présentation
 ============
 
-Prérequis
----------
-- Python 3.8+
-- ROS2 Humble
+Objectifs du projet
+-------------------
+Le pantographe est un dispositif mécanique utilisé pour copier, agrandir ou réduire des dessins et des images. Dans le cadre de ce projet d'informatique industrielle, l'objectif est de concevoir et de simuler un pantographe motorisé capable de reproduire des formes complexes avec précision.
 
-Étapes d'installation
-----------------------
-1. Clonez le dépôt :
-   .. code-block:: bash
+.. figure:: /_static/img/pantographe.png
+   :alt: Pantographe en action
+   :width: 300px
+   :align: center
 
-      git clone git@github.com:Guig-gs/Pantographe.git
-
-2. Installez les dépendances :
-   .. code-block:: bash
-
-      pip install -r requirements.txt
-
-.. note::
-   Sous WSL, utilisez ``sudo apt install python3-pip`` avant d'installer les dépendances.
+   Légende : Exemple de pantographe motorisé utilisé pour la démonstration.
