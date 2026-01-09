@@ -6,7 +6,15 @@
 Projet d'informatique industrielle : Pantographe
 ================================================
 
-salut c'est roy le nul
+**Pantographe** est un outil pour [décris brièvement ton projet].
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Sommaire
+   :glob:
+
+   presentation
+   .. tutorials/*
 
 
 
