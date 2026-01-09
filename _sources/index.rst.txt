@@ -4,6 +4,7 @@
    contain the root `toctree` directive.
 
 pantographe documentation
+salut c'est roy le nul
 =========================
 
 Add your content using ``reStructuredText`` syntax. See the
